@@ -81,7 +81,8 @@ def remove(string):
         else:
             s+=string[i]
     print(s)
-            ```
+```
+
 ## Output
 ![WhatsApp Image 2025-10-19 at 19 44 25_db7b8fe9](https://github.com/user-attachments/assets/fcf58990-a2d1-4bf2-826e-4690b4e1165c)
 
